@@ -35,11 +35,20 @@ No-Code E-Commerce Application Design Project
 ### Homepage
 ![Homepage Screenshot](images/homepage.png)
 
+<img width="1366" height="768" alt="products" src="https://github.com/user-attachments/assets/4953793a-2044-42f0-9f25-d86e5465eca6" />
+
 ### Product Page
 ![Product Page Screenshot](images/product.png)
 
+<img width="1366" height="768" alt="homepage" src="https://github.com/user-attachments/assets/e71b85b2-9e12-443e-ae76-b743a3c3fc96" />
+
+
 ### Cart Page
 ![Contact/Cart Screenshot](images/cart.png)
+
+<img width="1366" height="768" alt="products" src="https://github.com/user-attachments/assets/4953793a-2044-42f0-9f25-d86e5465eca6" />
+<img width="1366" height="768" alt="homepage" src="https://github.com/user-attachments/assets/e71b85b2-9e12-443e-ae76-b743a3c3fc96" />
+<img width="1366" height="768" alt="cart" src="https://github.com/user-attachments/assets/b97fc1a5-2349-4a85-8a95-c4a99082588f" />
 
 ---
 
@@ -55,7 +64,8 @@ No-Code E-Commerce Application Design Project
 
 ## ⚡ Challenges
 - Limited cart functionality on free Wix plan (checkout requires premium).  
-- Customizing templates to fit academic requirements.      <img width="1366" height="768" alt="products" src="https://github.com/user-attachments/assets/4953793a-2044-42f0-9f25-d86e5465eca6" />
+- Customizing templates to fit academic requirements.
+<img width="1366" height="768" alt="products" src="https://github.com/user-attachments/assets/4953793a-2044-42f0-9f25-d86e5465eca6" />
 <img width="1366" height="768" alt="homepage" src="https://github.com/user-attachments/assets/e71b85b2-9e12-443e-ae76-b743a3c3fc96" />
 <img width="1366" height="768" alt="cart" src="https://github.com/user-attachments/assets/b97fc1a5-2349-4a85-8a95-c4a99082588f" />
 
